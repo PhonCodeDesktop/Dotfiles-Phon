@@ -1,6 +1,6 @@
 
 # Welcome to my repository! 
-All themes will be in the “themes” folder.
+All themes are numbered
 <br>
 <br>
 
