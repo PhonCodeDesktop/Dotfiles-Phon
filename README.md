@@ -2,8 +2,7 @@
 # ¡Bienvenido a mi repositorio! 
 
 <br>
-
-## THEMES
+<br>
 
 <summary><h3>- Theme: 1 </h3></summary>
 <br>
