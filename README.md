@@ -1,10 +1,7 @@
 
 # ¡Bienvenido a mi repositorio! 
 
-Este es un espacio donde estaré subiendo los distintos **themes** que uso en mi Arch Linux. 
-Mi objetivo es hacerlo **lo más simple y fácil posible**.
 
----
 
 ## THEMES
 
