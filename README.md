@@ -1,6 +1,6 @@
 
-# ¡Bienvenido a mi repositorio! 
-
+# Welcome to my repository! 
+All themes will be in the “themes” folder.
 <br>
 <br>
 
@@ -22,5 +22,4 @@
 
 ---
 
-*(Próximamente más temas... 🛠️)*
 
